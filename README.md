@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mohammad, a mechanical engineer who dance with programming!
+### Hi there 👋 I'm Mohammad, an engineer who dance with programming!
 
 
 
