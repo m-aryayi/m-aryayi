@@ -14,8 +14,9 @@
 
 ### Reach me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/m-aryayi/#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/m-aryayi/#gh-light-mode-only) 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/m-aryayi/#gh-dark-mode-only)
+&nbsp; [<img height="22px" src="https://github.com/m-aryayi/m-aryayi/blob/main/img/medium-logo.png">](https://medium.com/@mohammadaryayi)
 <br />
 
 
