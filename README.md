@@ -6,6 +6,7 @@
 
 <img align="left" alt="Python" height="23px" src="https://github.com/m-aryayi/m-aryayi/blob/main/img/Python-logo.svg" style="padding-right:10px;" />
 <img align="left" alt="QT" height="23px" src="https://github.com/m-aryayi/m-aryayi/blob/main/img/Qt_logo.svg" style="padding-right:10px;" />
+<img align="left" alt="QT" height="23px" src="https://github.com/m-aryayi/m-aryayi/blob/main/img/PyTorch_logo.png" style="padding-right:10px;" />
 <img align="left" alt="MATLAB" height="23px" src="https://github.com/m-aryayi/m-aryayi/blob/main/img/Matlab_logo.png" style="padding-right:10px;" />
 <img align="left" alt="LaTex" height="23px" src="https://github.com/m-aryayi/m-aryayi/blob/main/img/LaTeX_logo.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" height="23px" src="https://github.com/m-aryayi/m-aryayi/blob/main/img/Git-logo.svg" style="padding-right:10px;" />
